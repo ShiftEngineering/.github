@@ -1,7 +1,7 @@
 # Shift Engineering
 Creating products that enhance human creativity and intelligence. 
 
-https://shifthq.ai
+https://www.shifthq.ai
 
 ## Core Values
 ### Humanity Comes First
