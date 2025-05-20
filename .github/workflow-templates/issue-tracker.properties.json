@@ -1,7 +1,0 @@
-{
-  "name": "Issue Tracker Workflow",
-  "description": "Moves issues from 'In Progress' to 'In Review' when a pull request is opened",
-  "iconName": "octicon git-pull-request",
-  "categories": ["automation"],
-  "filePatterns": []
-}

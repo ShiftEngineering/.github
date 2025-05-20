@@ -1,7 +1,0 @@
-{
-  "name": "Branch-Issue Tracker Workflow",
-  "description": "Moves issues to 'In Progress' when a branch containing the issue number is created",
-  "iconName": "octicon git-branch",
-  "categories": ["automation"],
-  "filePatterns": []
-}
